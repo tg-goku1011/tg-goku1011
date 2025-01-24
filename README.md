@@ -41,10 +41,10 @@ Feel free to reach out or collaborate with me:
 </div>
 
 ### 📊 GitHub Activity  
-![Shailesh's Contributions](https://github-readme-stats.vercel.app/api?username=shailesh-1011&show_icons=true&theme=radical&hide_border=true)
+![Goku's Contributions](https://github-readme-stats.vercel.app/api?username=tg-goku1011&show_icons=true&theme=radical&hide_border=true)
 
 ### 🧑‍💻 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-1011&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tg-goku1011&layout=compact&theme=radical&hide_border=true)
 
 ### 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=shailesh-1011&theme=radical&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=tg-goku1011&theme=radical&no-frame=true&margin-w=15)
